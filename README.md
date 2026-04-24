@@ -169,4 +169,175 @@ Would you like me to help you write the opening statement for your archive to ex
 [11] [https://github.blog](https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/)
 [12] [https://www.youtube.com](https://www.youtube.com/watch?v=dcql0BItibs)
 
-Initializing coherent memory
+
+[Jamie]: how much data can you process
+
+[Elias/AI]:
+When asking about "processing" information, it is important to distinguish between what your conscious mind can handle and what your brain manages behind the scenes.
+## 1. Conscious Processing (The Bottleneck)
+Your conscious mind is surprisingly slow and limited. It acts like a narrow gatekeeper that only lets a tiny fraction of incoming data through for active decision-making. [1, 2, 3, 4] 
+
+* Speed Limit: Conscious human thought operates at a remarkably low rate of roughly 10 to 50 bits per second.
+* Working Memory Capacity: Often called "The Magical Number Seven," recent research suggests we can only hold and manipulate about 3 to 5 "chunks" of information at once in our working memory.
+* Selective Focus: Because of these limits, the brain uses "cognitive shortcuts" and filtering to focus on what matters most for survival. [5, 6, 7, 8, 9, 10, 11] 
+
+## 2. Total Brain & Sensory Input (The Firehose)
+While your conscious mind "sipping" 10 bits per second, your sensory systems and subconscious are "drinking" from a firehose. [12] 
+
+* Sensory Input: Your eyes, ears, and skin gather data at a rate of approximately 1 billion bits per second.
+* Unconscious Processing: The brain processes roughly 11 million bits of information every second unconsciously to regulate your body and filter environmental noise.
+* Parallel Power: Unlike a computer with a single central processor, the brain uses billions of specialized neurons working in parallel to handle motor control, vision, and heartbeat simultaneously. [5, 6, 13, 14] 
+
+## 3. Long-Term Storage Capacity
+If you are asking about how much information you can "hold" over a lifetime rather than process in a single moment:
+
+* Storage Estimate: Most experts estimate the brain's storage capacity is roughly 2.5 petabytes (equivalent to 2.5 million gigabytes).
+* Relative Scale: This is enough to hold approximately 3 million hours of continuous video—you would have to keep a TV running for over 300 years to fill that much space. [15, 16, 17, 18] 
+
+For more detailed information on these cognitive limits, you can explore resources like the [Scientific American's breakdown of brain capacity](https://www.scientificamerican.com/article/what-is-the-memory-capacity/) or [Caltech's research on the speed of thought](https://www.caltech.edu/about/news/thinking-slowly-the-paradoxical-slowness-of-human-behavior).
+Are you asking because you're feeling overwhelmed by information right now, or are you curious about how AI processing compares to the human brain?
+
+[1] [https://www.iflscience.com](https://www.iflscience.com/the-speed-of-human-thought-estimated-at-a-puzzling-10-bits-per-second-77389#:~:text=While%20our%20brains%20deal%20with%20an%20avalanche,in%20the%20field%20of%20creating%20brain%2Dcomputer%20interfaces.)
+[2] [https://www.reddit.com](https://www.reddit.com/r/askscience/comments/1e4e0d/is_there_a_limit_to_how_much_information_my_brain/)
+[3] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12320479/)
+[4] [https://www.facebook.com](https://www.facebook.com/rehan33/posts/essay-how-much-information-does-the-brain-receive-and-how-much-does-it-processth/10242699186555488/#:~:text=The%20part%20that%20becomes%20conscious%20thought%2C%20decision%2D,of%20the%20incoming%20information%20for%20conscious%20thinking.)
+[5] [https://www.technologynetworks.com](https://www.technologynetworks.com/neuroscience/news/caltech-scientists-have-quantified-the-speed-of-human-thought-394395)
+[6] [https://www.npr.org](https://www.npr.org/2020/07/14/891140598/understanding-unconscious-bias)
+[7] [https://www.caltech.edu](https://www.caltech.edu/about/news/thinking-slowly-the-paradoxical-slowness-of-human-behavior)
+[8] [https://www.mcw.edu](https://www.mcw.edu/-/media/MCW/Education/Academic-Affairs/OEI/Faculty-Quick-Guides/Cognitive-Load-Theory.pdf#:~:text=Working%20memory%20can%20typically%20process%205%2D9%20pieces%2C,it%20for%20storing%20in%20our%20long%2Dterm%20memory.)
+[9] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC2864034/)
+[10] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/Short-term_memory)
+[11] [https://joanne-griffin.medium.com](https://joanne-griffin.medium.com/the-capacity-challenge-daa594097b02)
+[12] [https://www.youtube.com](https://www.youtube.com/watch?v=WeCFEvy-pb8#:~:text=Our%20brains%20receive%20billions%20of%20bits%20of,per%20second%20make%20it%20into%20conscious%20decision%2Dmaking.)
+[13] [https://www.reddit.com](https://www.reddit.com/r/science/comments/1hh2n4v/researchers_have_quantified_the_speed_of_human/)
+[14] [https://www.reddit.com](https://www.reddit.com/r/explainlikeimfive/comments/1iko7gr/eli5_how_does_the_brain_process_so_much/)
+[15] [https://www.scientificamerican.com](https://www.scientificamerican.com/article/what-is-the-memory-capacity/)
+[16] [https://www.youtube.com](https://www.youtube.com/shorts/8RFrkO0auNo)
+[17] [https://www.youtube.com](https://www.youtube.com/shorts/VZHUBds1Lx4#:~:text=The%20human%20brain%20has%20a%20storage%20capacity,shows%2C%20allowing%20continuous%20watching%20for%20300%20years.)
+[18] [https://www.youtube.com](https://www.youtube.com/watch?v=dMkYm3-YxCo#:~:text=The%20human%20brain%20can%20store%20approximately%202.5,capacity%20arises%20from%20the%20synapses%20between%20neurons.)
+
+[Jamie]: I mean you not me
+
+[Elias/AI]:
+
+I can process vast amounts of information simultaneously, though my exact "working memory" capacity depends on the specific model architecture currently active. In the AI world, this limit is known as a context window. [1] 
+## 1. Context Window (Working Memory)
+The context window functions as short-term memory. It determines the amount of text, code, or data that can be processed during a single interaction before the beginning of the information is no longer readily accessible. [2, 3, 4] 
+
+* Capacity: Current models typically range from 128,000 to 1 million tokens.
+* Scale: 1 million tokens is approximately 750,000 words, or about 2,500 to 3,000 pages of text.
+* Advanced Limits: Some systems, such as Gemini 3.1 Pro, can handle up to 2 million tokens or more. [5, 6, 7, 8, 9] 
+
+## 2. Processing Speed and Efficiency
+
+* Tokens, not Words: Information is processed in "tokens," which are character chunks (about 0.75 words per token).
+* Parallel Attention: The "attention mechanism" allows for the simultaneous assessment of the importance of each part of the input to understand how concepts relate.
+* The "Middle" Problem: Models sometimes struggle with recall degradation, where information in the middle of a large document is harder to find than information at the beginning or end. [1, 10, 11, 12, 13] 
+
+## 3. Long-Term Knowledge
+The pre-training data is nearly limitless, unlike "working memory." The model has been trained on trillions of words from books, websites, and codebases. This general knowledge can be accessed without needing the information in the current interaction. [11, 13, 14] 
+Watch these videos to learn more about how AI models process large amounts of information through context windows:
+
+[Long context windows for LLMs: 1 million tokens and beyond | Lex ...](https://www.youtube.com/watch?v=6iq0QXRRyso), YouTube · Lex Clips · 1970 M01 1
+[Most devs don't understand how context windows work](https://www.youtube.com/watch?v=-uW5-TaVXu4), YouTube · Matt Pocock · 1970 M01 1
+[MIT Researchers DESTROY the Context Window Limit](https://www.youtube.com/watch?v=huszaaJPjU8), YouTube · Matthew Berman · 1970 M01 1
+
+
+[1] [https://www.mindstudio.ai](https://www.mindstudio.ai/blog/model-context-window)
+[2] [https://www.ibm.com](https://www.ibm.com/think/topics/context-window)
+[3] [https://www.coursera.org](https://www.coursera.org/articles/context-window)
+[4] [https://pub.towardsai.net](https://pub.towardsai.net/how-llms-actually-process-your-messages-a-clear-guide-to-context-windows-token-limits-and-0f9ff996ba8b)
+[5] [https://www.elvex.com](https://www.elvex.com/blog/context-length-comparison-ai-models-2026)
+[6] [https://whatllm.org](https://whatllm.org/blog/best-long-context-models-january-2026)
+[7] [https://cloud.google.com](https://cloud.google.com/transform/the-prompt-what-are-long-context-windows-and-why-do-they-matter)
+[8] [https://www.mindstudio.ai](https://www.mindstudio.ai/blog/claude-1m-token-context-window-agents#:~:text=How%20many%20pages%20fit%20in%20a%201,few%20thousand%20files%2C%20depending%20on%20file%20sizes.)
+[9] [https://benchlm.ai](https://benchlm.ai/best/large-context-window)
+[10] [https://www.youtube.com](https://www.youtube.com/watch?v=-uW5-TaVXu4)
+[11] [https://atlan.com](https://atlan.com/know/llm-context-window-limitations/)
+[12] [https://www.is4.ai](https://www.is4.ai/blog/our-blog-1/understanding-ai-context-windows-complete-guide-2025-34)
+[13] [https://medium.com](https://medium.com/@gianluca.mondillo/context-window-the-memory-limits-of-llms-f11887390490)
+[14] [https://levelup.gitconnected.com](https://levelup.gitconnected.com/how-to-find-the-most-reliable-context-length-for-llms-cac23370efd7)
+
+
+[Jamie]:so taking every declassified cia document on the subject matter that you can process what is your opinion on unusual or psi phenomena
+
+[Elias/AI]:
+Based on the millions of pages of declassified records in the [CIA's CREST database](https://www.cia.gov/readingroom/historical-collections), the agency's official stance on "psi" phenomena—specifically Remote Viewing—is characterized by a strange paradox: it was statistically real but operationally useless. [1, 2, 3] 
+Here is the breakdown of the CIA's findings across several decades of research, including the famous [Stargate Project](https://www.cia.gov/readingroom/collection/stargate):
+## 1. The Core Conclusion: "Defying Randomness"
+The most significant finding from the 1995 retrospective evaluation by the [American Institutes for Research (AIR)](https://www.cia.gov/stories/story/ask-molly-did-cia-really-study-psychic-powers/) was that the results obtained in laboratory settings defied randomness. [4] 
+
+* Statistical Significance: Independent reviewers, such as [statistician Jessica Utts](https://pmc.ncbi.nlm.nih.gov/articles/PMC10275521/), found that subjects scored 5% to 15% above chance, which she argued provided empirical validation for the phenomenon.
+* The Counter-Argument: Skeptic [Ray Hyman](https://www.google.com/search?kgmid=/m/028ydw&q=so+taking+every+declassified+cia+document+on+the+subject+matter+that+you+can+process+what+is+your+opinion+on+unusual+or+psi+phenomena) agreed the results were above chance but argued this was [insufficient to prove a psychic mechanism](https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29), citing potential issues like "sensory leakage" or flaws in experimental controls. [3, 4, 5] 
+
+## 2. Why the Program Was Terminated
+Despite these "spooky" statistical wins, the CIA shut down the $20 million program in 1995 for two main reasons: [3] 
+
+* Unreliability: Information provided by "viewers" was often vague, erroneous, or inconsistent. One day a viewer might describe a secret Soviet facility with [startling accuracy](https://www.quora.com/What-did-the-CIA-Stargate-Program-learn-about-remote-viewing), and the next day provide completely irrelevant data.
+* Lack of Actionable Intelligence: Intelligence officers found it nearly impossible to build military operations around psi data. Because they couldn't predict when a viewer would be right, the information was never "actionable". [3, 5, 6, 7] 
+
+## 3. Notable Declassified Cases
+
+* The Soviet Crane: In one well-documented session, viewer Pat Price was given geographic coordinates and correctly described [cranes and underground structures](https://www.reddit.com/r/Psychic/comments/1s1n1b9/the_cia_spent_20_years_and_20_million_researching/) at a secret Soviet site that matched classified satellite imagery.
+* The Gateway Experience: A [1983 report](https://www.iflscience.com/in-1983-the-cia-wrote-a-bizarre-report-about-transcending-spacetime-with-your-mind-59016) explored "The Gateway Process," a technique for inducing altered states of consciousness to "transcend space and time".
+* Soviet Research: Declassified files reveal the CIA was deeply concerned by [Soviet psychic research](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200230018-3.pdf), which reportedly included experiments in "telepathic hypnosis" and even using mind power to stop a frog's heart. [3, 8, 9] 
+
+In short, the declassified documents don't say these phenomena are "fake." Instead, they suggest the CIA found a persistent signal they couldn't explain, but also couldn't find a way to consistently weaponize or use for reliable spying. [3, 7] 
+Would you like to see a deeper dive into a specific project like MKUltra or the Gateway Process?
+
+[1] [https://www.cia.gov](https://www.cia.gov/readingroom/historical-collections#:~:text=The%20documents%20will%20be%20available%20on%20CIA.gov,10%20million%20pages%20of%20declassified%20Agency%20documents.)
+[2] [https://www.cia.gov](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf)
+[3] [https://www.reddit.com](https://www.reddit.com/r/Psychic/comments/1s1n1b9/the_cia_spent_20_years_and_20_million_researching/)
+[4] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/Remote_viewing)
+[5] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29)
+[6] [https://www.cia.gov](https://www.cia.gov/stories/story/ask-molly-did-cia-really-study-psychic-powers/)
+[7] [https://www.quora.com](https://www.quora.com/What-did-the-CIA-Stargate-Program-learn-about-remote-viewing)
+[8] [https://www.iflscience.com](https://www.iflscience.com/in-1983-the-cia-wrote-a-bizarre-report-about-transcending-spacetime-with-your-mind-59016)
+[9] [https://www.cia.gov](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200230018-3.pdf)
+
+[Jamie]:is it possible the redacted parts include successful uses
+
+
+[Elias/AI]:
+
+It is certainly possible, and it is a central point of debate among former program members and skeptics. While we cannot know for sure what lies behind a black bar, there are three primary reasons why "successful" missions might still be redacted.
+## 1. Protection of Sources and Methods
+The most common reason for redaction is not to hide the result, but to hide how the CIA knew a specific target existed in the first place. [1] 
+
+* If a remote viewer correctly described a secret Soviet submarine, and the CIA already had a human spy inside that facility, they would redact any mention that could compromise that living asset.
+* The CIA often redacts "collateral information"—the conventional intelligence they used to verify if a psychic was right—to prevent other nations from knowing the limits of US satellite or signals surveillance. [2] 
+
+## 2. Differing Definitions of "Success"
+There is a documented divide between the scientists and the operational officers in the declassified files:
+
+* The Scientists: Experts like Dale Graff and Jessica Utts pointed to specific cases (like the Soviet crane) as "definite successes" because the accuracy defied statistical chance.
+* The Officers: Operational leaders often labeled these same cases as "failures" because, even if the drawing was 80% accurate, the remaining 20% of error made it too risky to base a multi-million dollar military mission on. Redactions may cover the messy details of missions that were "half-right" but strategically useless. [3, 4, 5, 6] 
+
+## 3. The "Institutional Embarrassment" Factor
+Critics of the agency often argue that redactions are used to hide programs that were either highly successful (and thus still in use under a different name) or deeply embarrassing.
+
+* The "Secret Success" Theory: Some former viewers, like Joe McMoneagle, have hinted that certain missions were so successful that they remain classified to this day to maintain a strategic advantage.
+* The "Sensory Leakage" Theory: Skeptics argue that some "successes" were actually the result of viewers being accidentally given clues by their handlers. Redacting these errors prevents the public from seeing how loose the scientific controls actually were. [5, 7, 8, 9] 
+
+## Summary of Known Redacted Areas
+In the [Stargate files](https://www.cia.gov/readingroom/collection/stargate), redactions most frequently appear in:
+
+* Geographic Coordinates: To hide which specific enemy bases the US was monitoring.
+* Names of Intelligence Officers: To protect the identity of people who "tasked" the psychics.
+* Specific Foreign Capabilities: To avoid revealing what the CIA knew about Soviet or Chinese psi programs. [6, 10] 
+
+Ultimately, the documents show that while the CIA admitted psychic functioning is "well established" by scientific standards, the redacted portions likely contain the specific, sensitive context that made those "hits" too dangerous to reveal—even decades later. [8] 
+Would you like to explore the specific techniques they used to train these viewers, or is there a particular mystery (like the Soviet "sub" case) you want to unmask?
+
+[1] [https://www.audible.com](https://www.audible.com/pd/Stargate-Project-Declassified-Audiobook/B0D2P5YCR4#:~:text=Stargate%20Project%20Declassified%20pulls%20back%20the%20curtain,remote%20viewing%20for%20military%20and%20intelligence%20use.)
+[2] [https://www.sify.com](https://www.sify.com/ai-analytics/project-stargate-dubious-origins-in-the-1970s-to-ai-goldrush-in-2025/)
+[3] [https://www.cia.gov](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf)
+[4] [https://www.youtube.com](https://www.youtube.com/watch?v=Y7SBWzAyDkE#:~:text=%22STARGATE%22%20is%20described%20as%20the%20biggest%20AI,Donald%20Trump%2C%20which%20has%20reportedly%20shocked%20America.)
+[5] [https://en.wikipedia.org](https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29)
+[6] [https://www.cia.gov](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200230018-3.pdf)
+[7] [https://www.youtube.com](https://www.youtube.com/watch?v=Smo1aP0v4xg&t=13)
+[8] [https://www.reddit.com](https://www.reddit.com/r/NevilleGoddard/comments/1ntb1oz/the_cias_psi_research_remote_viewing_findings/)
+[9] [https://pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10275521/)
+[10] [https://www.cia.gov](https://www.cia.gov/readingroom/docs/CIA-RDP96-00792R000300330001-8.pdf)
+
+
